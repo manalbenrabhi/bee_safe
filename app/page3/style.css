@@ -1,0 +1,178 @@
+.android-small {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.android-small .div {
+  
+    height: 600px;
+    overflow: hidden;
+    position: relative;
+    width: 342px;
+}
+
+.android-small .overlap-group {
+    height: 39px;
+    left: -20px;
+    position: absolute;
+    top: 9px;
+    width: 237px;
+}
+
+
+.android-small .bee {
+    height: 39px;
+    left: 35px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 39px;
+}
+
+.android-small .humidity {
+    height: 53px;
+    left: 71px;
+    object-fit: cover;
+    position: absolute;
+    top: 183px;
+    width: 51px;
+}
+
+.android-small .weight {
+    height: 53px;
+    left: 71px;
+    object-fit: cover;
+    position: absolute;
+    top: 365px;
+    width: 51px;
+}
+
+.android-small .thermometer-1 {
+    left: 71px !important;
+    position: absolute !important;
+    top: 269px !important;
+}
+.android-small .text-wrapper {
+    color: #000000;
+    font-family: "Judson-Bold", Helvetica;
+    font-size: 11px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 25px;
+    width: 237px;
+    }
+    .android-small .bee {
+    height: 39px;
+    left: 37px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 39px;
+    }
+    .android-small .humidity {
+    height: 53px;
+    left: 71px;
+    object-fit: cover;
+    position: absolute;
+    top: 183px;
+    width: 51px;
+    }
+    .android-small .weight {
+    height: 53px;
+    left: 71px;
+    object-fit: cover;
+    position: absolute;
+    top: 365px;
+    width: 51px;
+    }
+    .android-small .thermometer-1 {
+    left: 71px !important;
+    position: absolute !important;
+    top: 269px !important;
+    }
+    .android-small .text-wrapper-2 {
+    color: #000000;
+    font-family: "Judson-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 226px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 200px;
+    white-space: nowrap;
+    }
+    .android-small .text-wrapper-3 {
+    color: #000000;
+    font-family: "Judson-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 161px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 200px;
+    white-space: nowrap;
+    }
+    .android-small .text-wrapper-4 {
+    color: #000000;
+    font-family: "Judson-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 162px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 380px;
+    white-space: nowrap;
+    }
+    .android-small .text-wrapper-5 {
+    color: #000000;
+    font-family: "Judson-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 161px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 283px;
+    white-space: nowrap;
+    }
+    .android-small .text-wrapper-6 {
+    color: #000000;
+    font-family: "Judson-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 226px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 380px;
+    white-space: nowrap;
+    }
+    .android-small .text-wrapper-7 {
+    color: #000000;
+    font-family: "Judson-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 226px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 283px;
+    white-space: nowrap;
+    }
+    
